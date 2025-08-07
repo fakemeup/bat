@@ -1,0 +1,39 @@
+<head>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f2f5;
+      margin: 20px;
+      color: #333;
+    }
+
+    h1 {
+      color: #005f73;
+    }
+
+    h2 {
+      color: #0a9396;
+      margin-top: 40px;
+    }
+
+    ul {
+      list-style-type: square;
+      padding-left: 20px;
+    }
+
+    li a {
+      text-decoration: none;
+      color: #0077b6;
+      font-weight: bold;
+    }
+
+    li a:hover {
+      text-decoration: underline;
+      color: #023e8a;
+    }
+
+    p {
+      line-height: 1.6;
+    }
+  </style>
+</head>
